@@ -4,7 +4,10 @@
 
 # 🚀 DeepSeek Code Companion 🤖  
 
-*Your AI-powered coding buddy that never sleeps (unless you turn off the server 😆)!*  
+*Your AI-powered coding buddy that never sleeps (unless you turn off the server 😆)!*
+
+
+https://github.com/user-attachments/assets/d37ee794-7800-4559-ae4a-42155078b05b
 
 ## 🎯 What is this?  
 DeepSeek Code Companion is a **Groq-powered** AI chatbot built with **Streamlit**, designed to assist with code generation, debugging, and answering your deep, existential programming questions (like why semicolons are still a thing in JavaScript 🤷‍♂️).  
